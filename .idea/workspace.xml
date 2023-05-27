@@ -8,17 +8,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllerLogs.txt.1" beforeDir="false" afterPath="$PROJECT_DIR$/controllerLogs.txt.1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllerLogs.txt.2" beforeDir="false" afterPath="$PROJECT_DIR$/controllerLogs.txt.2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllerLogs.txt.3" beforeDir="false" afterPath="$PROJECT_DIR$/controllerLogs.txt.3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllerLogs.txt.4" beforeDir="false" afterPath="$PROJECT_DIR$/controllerLogs.txt.4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3.json" beforeDir="false" afterPath="$PROJECT_DIR$/level3.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modelLogs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/modelLogs.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modelLogs.txt.1" beforeDir="false" afterPath="$PROJECT_DIR$/modelLogs.txt.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/GameClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/GameClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/GameServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/GameServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structure/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structure/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/GameClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/GameClient$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/GameClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/GameClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/GameServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/GameServer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/GameServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/GameServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/structure/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/structure/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelLogs.txt.2" beforeDir="false" afterPath="$PROJECT_DIR$/modelLogs.txt.2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/game/EnemyTanksBrainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/game/EnemyTanksBrainTest.class" afterDir="false" />
     </list>
     <list id="b2b7376c-dd7a-4282-8d6e-bcff7d449132" name="Changes by dmr4eg" comment="" />
     <list id="418be624-e450-4897-b2a2-09db30ee6746" name="Changes by User" comment="" />
@@ -65,7 +60,7 @@
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/CVUT/fastpush&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/CVUT/JAVA_CVUT/Новая папка/denistat&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
@@ -93,7 +88,7 @@
       <recent name="C:\CVUT\TeamGame\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.start_game">
+  <component name="RunManager" selected="JUnit.EnemyTanksBrainTest">
     <configuration name="App" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="net.App" />
       <module name="game" />
@@ -180,8 +175,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EnemyTanksBrainTest.getPriorityTarget_shouldReturnPlayerIfPlayerIsCloser" />
         <item itemvalue="JUnit.EnemyTanksBrainTest" />
+        <item itemvalue="JUnit.EnemyTanksBrainTest.getPriorityTarget_shouldReturnPlayerIfPlayerIsCloser" />
         <item itemvalue="JUnit.ModelTest.testAddBullet" />
         <item itemvalue="JUnit.ModelTest" />
         <item itemvalue="Application.App" />
@@ -256,7 +251,18 @@
       <workItem from="1684717280589" duration="6548000" />
       <workItem from="1684746171449" duration="1653000" />
       <workItem from="1684749531295" duration="6793000" />
-      <workItem from="1684762799650" duration="676000" />
+      <workItem from="1684762799650" duration="1568000" />
+      <workItem from="1684772611727" duration="71000" />
+      <workItem from="1684870456535" duration="144000" />
+      <workItem from="1684870748138" duration="586000" />
+      <workItem from="1684877727109" duration="20000" />
+      <workItem from="1684951593653" duration="703000" />
+      <workItem from="1684956766588" duration="600000" />
+      <workItem from="1685097015743" duration="690000" />
+      <workItem from="1685120640287" duration="406000" />
+      <workItem from="1685153040773" duration="81000" />
+      <workItem from="1685165577226" duration="599000" />
+      <workItem from="1685186158175" duration="22000" />
     </task>
     <servers />
   </component>
